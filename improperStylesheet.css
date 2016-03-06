@@ -1,0 +1,23 @@
+body
+{
+  font-family: "Times New Roman", arial, sans-serif;
+  border: 20px dotted pink;
+  font-variant: small-caps;
+  background-color: limegreen;
+} /* body */
+
+h1, h2, h3
+{
+  color: green;
+} /* headings */
+
+ol, ul, dl
+{
+  font-family: "Times New Roman", arial, sans-serif;
+  color: red;
+} /* lists */
+
+a
+{
+  color: purple;
+} /* anchor text */

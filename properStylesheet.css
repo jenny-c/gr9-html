@@ -1,0 +1,35 @@
+#sandwichImg
+{
+  margin-left: 15%;
+} /* sandwichImg */
+
+body
+{
+  font-family: raleway, verdana, monospace, sans-serif;
+	font-weight: 500;
+  margin-left: 20%;
+  margin-right: 20%;
+} /* body */
+
+h1,
+h2,
+h3
+{
+  font-family: raleway, verdana, monospace, sans-serif;
+  padding-top: 5%;
+  color: limegreen;
+} /* headings */
+
+dt
+{
+  font-family: raleway, verdana, monospace, sans-serif;
+	font-weight: 800;
+  line-height: 2em;
+  padding-top: 1em;
+  color: limegreen;
+} /* dt */
+
+.citations
+{
+  font-size: 0.8em;
+} /* citations */

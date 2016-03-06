@@ -1,0 +1,61 @@
+body
+{
+  margin-left: 18%;
+  margin-right: 18%;
+  font-family: raleway, verdana, monospace, sans-serif;
+  padding-bottom: 2em;
+} /* body */
+
+h1,
+h2,
+h3
+{
+  color: limegreen;
+  padding-top: 3.5em;
+} /* headings */
+
+h1
+{
+  padding-top: 3.5em;
+} /* heading 1 */
+
+li
+{
+  padding-top: 0.4em;
+} /* li */
+
+dl
+{
+  margin-left: 5%;
+} /* definition list */
+
+dt
+{
+  font-weight: 600;
+  font-style: italic;
+} /* definition term */
+
+.citations
+{
+  font-size: 10pt;
+  font-style: italic;
+} /* citations */
+
+.mText
+{
+  text-decoration: none;
+  font-weight: 600;
+  color: limegreen;
+  padding-left: 1em;
+} /* menu text */
+
+#menuTop
+{
+  background-color: white;
+  margin-top: -2%;
+  padding-left: 30%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: right;
+  position: fixed;
+} /* menuTop */

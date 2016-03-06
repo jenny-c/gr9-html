@@ -1,0 +1,19 @@
+h1
+{
+  text-align: center;
+  font-family: verdana;
+} /* body */
+
+p
+{
+  width: 319px;
+  text-align: left;
+}
+
+.citations
+{
+  font-size: 10pt;
+  font-style: italic;
+  width: auto;
+  text-align: center;
+} /* citations */
