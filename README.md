@@ -1,2 +1,2 @@
-#ics1
-a repo for all my grade 9 ics stuffs
+# gr 9 html
+a repo for all my gr 9 html stuffs
