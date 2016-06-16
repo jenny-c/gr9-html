@@ -1,0 +1,14 @@
+body {
+  font-family: "inconsolata";
+}
+
+img {
+  margin-left: 0%;
+  display: inline-block;
+}
+
+.date {
+  line-height: 50%;
+  font-size: 20px;
+  font-weight: bold;
+}

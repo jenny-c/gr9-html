@@ -1,0 +1,48 @@
+body {
+  font-family: "lora";
+  margin: 5% 15% 10% 15%;
+} /* body */
+
+h1 {
+  font-size: 45px;
+  line-height: 60%;
+  text-decoration: underline;
+} /* h1 */
+
+
+h3 {
+  line-height: 0%;
+  float: left;
+  font-size: 15px;;
+} /* h3 */
+
+a {
+  text-decoration: none;
+  color: darkred;
+} /* a */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} /* img */
+
+.citation {
+  font-style: italic;
+  font-size: 11px;
+  text-align: center;
+} /* .citation */
+
+#newspaperDate {
+  font-weight: bolder;
+} /* #newspaperDate */
+
+#authorName {
+  padding-left: 15px;
+  font-style: italic;
+  font-weight: lighter;
+} /* #authorName */
+
+#firstParagraph {
+  text-indent: 50px;
+} /* firstParagraph */
